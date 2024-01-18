@@ -1,0 +1,10 @@
+C:\Users\bavat\OneDrive\Desktop\Final Project\Abans System\bin\Debug\Abans System.exe.config
+C:\Users\bavat\OneDrive\Desktop\Final Project\Abans System\bin\Debug\Abans System.exe
+C:\Users\bavat\OneDrive\Desktop\Final Project\Abans System\bin\Debug\Abans System.pdb
+C:\Users\bavat\OneDrive\Desktop\Final Project\Abans System\obj\Debug\Abans System.csproj.AssemblyReference.cache
+C:\Users\bavat\OneDrive\Desktop\Final Project\Abans System\obj\Debug\Abans_System.Stock.resources
+C:\Users\bavat\OneDrive\Desktop\Final Project\Abans System\obj\Debug\Abans_System.Properties.Resources.resources
+C:\Users\bavat\OneDrive\Desktop\Final Project\Abans System\obj\Debug\Abans System.csproj.GenerateResource.cache
+C:\Users\bavat\OneDrive\Desktop\Final Project\Abans System\obj\Debug\Abans System.csproj.CoreCompileInputs.cache
+C:\Users\bavat\OneDrive\Desktop\Final Project\Abans System\obj\Debug\Abans System.exe
+C:\Users\bavat\OneDrive\Desktop\Final Project\Abans System\obj\Debug\Abans System.pdb

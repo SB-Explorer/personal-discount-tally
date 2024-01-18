@@ -1,0 +1,10 @@
+C:\Users\bavat\OneDrive\Desktop\Final Project\Customer User\bin\Debug\Customer User.exe.config
+C:\Users\bavat\OneDrive\Desktop\Final Project\Customer User\bin\Debug\Customer User.exe
+C:\Users\bavat\OneDrive\Desktop\Final Project\Customer User\bin\Debug\Customer User.pdb
+C:\Users\bavat\OneDrive\Desktop\Final Project\Customer User\obj\Debug\Customer User.csproj.AssemblyReference.cache
+C:\Users\bavat\OneDrive\Desktop\Final Project\Customer User\obj\Debug\Customer_User.Form1.resources
+C:\Users\bavat\OneDrive\Desktop\Final Project\Customer User\obj\Debug\Customer_User.Properties.Resources.resources
+C:\Users\bavat\OneDrive\Desktop\Final Project\Customer User\obj\Debug\Customer User.csproj.GenerateResource.cache
+C:\Users\bavat\OneDrive\Desktop\Final Project\Customer User\obj\Debug\Customer User.csproj.CoreCompileInputs.cache
+C:\Users\bavat\OneDrive\Desktop\Final Project\Customer User\obj\Debug\Customer User.exe
+C:\Users\bavat\OneDrive\Desktop\Final Project\Customer User\obj\Debug\Customer User.pdb
